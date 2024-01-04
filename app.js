@@ -217,6 +217,9 @@ const saveGameInfo = () => {
 }
 
 
+const removeGameInfo = () => {
+    localStorage.removeItem('game');
+}
 
 const isGameWin = () => sudokuCheck(su_answer);
 
