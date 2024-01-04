@@ -8,5 +8,5 @@ const CONSTANT = {
         'Medium',
         'Hard'
     ],
-    LEVEL: [29, 38, 47]
+    LEVEL: [10, 38, 47]
 }
